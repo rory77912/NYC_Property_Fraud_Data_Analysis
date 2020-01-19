@@ -1,2 +1,2 @@
-# Unsupervised-Fraud-Model-
-Unsupervised Fraud Model on New York Property
+
+Preparation data visualization for building an unsupervised Fraud Model on New York Property
